@@ -1,0 +1,5 @@
+# This file defines who must review and approve changes to the repository
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Rob DeFeo is the code owner for all files
+* @robdefeo
